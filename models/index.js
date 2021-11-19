@@ -11,10 +11,12 @@ Category.hasMany(Product,{
   foreignKey: 'category_id'
 })
 Product.belongsToMany(Tag, {
-through: 'product_tag'
+through: 'product_tag',
+foreignKey:'product_id'
 })
 Tag.belongsToMany(Product, {
-through: 'product_tag'
+through: 'product_tag',
+foreignKey:'tag_id'
 })
 module.exports = {
   Product,
