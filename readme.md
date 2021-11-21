@@ -11,6 +11,8 @@
  6. [License](#license)
  7. [Questions](#questions)
 
+[![E-Commerce Backend Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1637460297/video_to_markdown/images/youtube--D7qV5ivbGyw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/D7qV5ivbGyw "E-Commerce Backend Demo")
+
 ## Description
 ### This is the repository for a mock back-end of an e-commerce business that allows users to create, read, update, and delete inventory information from command line using the sequelize package and mysql.
 ## Installation
